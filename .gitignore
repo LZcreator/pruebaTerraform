@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Claves privadas
+*.pem
+
+# Archivos de logs o temporales
+crash.log
+*.log
+*.bak
